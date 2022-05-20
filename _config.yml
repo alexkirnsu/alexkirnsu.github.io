@@ -28,7 +28,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://alexkirnsu.github.io/
 
 # Build settings
-theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-feed
