@@ -29,8 +29,10 @@ url: https://alexkirnsu.github.io/
 
 # Build settings
 theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
